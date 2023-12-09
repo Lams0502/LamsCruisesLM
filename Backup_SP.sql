@@ -80,3 +80,5 @@ drop table #TablaBDs
 
 SELECT * FROM sysdatabases
 
+SELECT * FROM #TablaBDs
+go
