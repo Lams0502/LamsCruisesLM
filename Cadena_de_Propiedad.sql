@@ -196,3 +196,6 @@ PRINT USER
 SELECT * FROM RRHH.Tripulacion
 go
 --Trip-81	Carlos	Corbelle	Capitan	BD
+
+SELECT * FROM RRHH.Tripulacion
+go
